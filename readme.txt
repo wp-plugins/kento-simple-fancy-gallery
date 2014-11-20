@@ -20,7 +20,7 @@ Plugin Feature
 + CSS3 Animation
 + Shortcode system
 
-Live Demo:http://kentothemes.com/plugin_demo/kento-simple-fancy-gallery/
+Live Demo: http://kentothemes.com/plugin_demo/kento-simple-fancy-gallery/
 
 Plugin support:<br />
 http://kentothemes.com/question_answers/
