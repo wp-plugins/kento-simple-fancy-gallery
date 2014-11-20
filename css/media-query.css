@@ -1,0 +1,35 @@
+
+/*mobile*/
+@media (min-width: 250px) and (max-width: 300px) { 
+
+}
+
+/* tablet */
+@media (min-width: 301px) and (max-width: 600px) {
+
+}
+
+/* This doesn't have to exist unless your design needs it, as these settings are above */
+@media (min-width: 601px) and (max-width: 950px) {
+
+}
+
+/* large desktop and browsers that know a media query*/
+@media (min-width: 951px) {
+.content img {
+  height: auto;
+  width: 237px;
+  margin: 0 auto;
+  border-radius:0;
+
+}
+}
+
+
+
+
+
+
+
+
+
