@@ -22,8 +22,8 @@ Plugin Feature
 
 Live Demo: http://kentothemes.com/plugin_demo/kento-simple-fancy-gallery/
 
-Plugin support:<br />
-http://kentothemes.com/question_answers/
+Plugin Demo and Support:<br />
+http://kentothemes.com/items/plugins/kento-scroll-jump-top/
 
 
 
