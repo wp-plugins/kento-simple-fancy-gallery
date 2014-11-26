@@ -20,10 +20,9 @@ Plugin Feature
 + CSS3 Animation
 + Shortcode system
 
-Live Demo: http://kentothemes.com/plugin_demo/kento-simple-fancy-gallery/
 
 Plugin Demo and Support:<br />
-http://kentothemes.com/items/plugins/kento-scroll-jump-top/
+http://kentothemes.com/items/gallery/kento-simple-fancy-gallery/
 
 
 
