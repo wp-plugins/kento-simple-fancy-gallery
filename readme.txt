@@ -3,7 +3,7 @@ Contributors: kentothemes
 Donate link: http://kentothemes.com
 Tags:  animation, kento,gallery,fancy gallery,simple gallery,simple animation,image animation,wordpress gallery, wordpress image animation,wp gallery, gallery plugin,image animation plugin, gallery animation plugin, fancy image gallery.
 Requires at least: 3.7
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
